@@ -1,0 +1,27 @@
+{
+  "data": {
+    "brands": {
+      "name": "AudioCodes",
+      "brand_id": "3",
+      "directory": "audiocodes",
+      "package": "audiocodes.tgz",
+      "md5sum": "1a73f077b5ccb4febf4bec9ced169a66",
+      "last_modified": 1456262516,
+      "family_list": [
+        {
+          "id": "1",
+          "name": "AudioCodes MP1xx Gateway Models [MP112,MP114,MP118,MP124]",
+          "directory": "mp",
+          "description": "",
+          "changelog": "",
+          "last_modified": null
+        }
+      ],
+      "oui_list": [
+        "0005E7",
+        "001719"
+      ],
+      "changelog": "PACKAGER: "
+    }
+  }
+}
