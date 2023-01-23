@@ -1,6 +1,6 @@
 {
   "data": {
-    "last_modified": 1674435421,
+    "last_modified": 1674435425,
     "package": "provisioner_net.tgz",
     "brands": [
       {
@@ -70,6 +70,10 @@
       {
         "name": "Yealink V70",
         "directory": "yealinkv70"
+      },
+      {
+        "name": "Yealink V80",
+        "directory": "yealinkv80"
       }
     ],
     "version": "3"
